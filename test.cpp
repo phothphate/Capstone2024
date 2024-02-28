@@ -72,5 +72,5 @@ int main() {
     pacmanMap.placeEntities();
     pacmanMap.printMap();
 
-    return 0;
+   
 }
